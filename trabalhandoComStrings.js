@@ -11,4 +11,4 @@ console.log (cidade === inputMinusculo);
 
 //Um outro exemplo interessante, qualquer insercao de texto que exija uma quantidade minima de caracteres, como uma senha ou nom, a propriedade "lenght" pode ser utilizada para sabermos quantos caracteres uma string contem:
 const senha = "minhaSenha123";
-console.log (senha.length);
+console.log (senha.length)
